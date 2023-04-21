@@ -1,0 +1,5 @@
+@tailwind utilities;
+
+.v-box {
+  border-radius: 5px;
+}
